@@ -1,5 +1,5 @@
 from kiwoom.kiwoom import *
-from PyQt5.Qtwidgets import *
+from PyQt5.QtWidgets import *
 import sys
 
 class Ui_class():

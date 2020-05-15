@@ -32,4 +32,5 @@ def errors(err_code):
                }
 
     result = err_dic[err_code]
+
     return result
